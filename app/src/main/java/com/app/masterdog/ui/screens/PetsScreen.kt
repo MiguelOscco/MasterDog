@@ -643,4 +643,3 @@ fun PetsScreenPreview() {
         PetsScreen()
     }
 }
-
